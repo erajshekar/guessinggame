@@ -1,3 +1,7 @@
-## guessinggame.sh for The Unix Workbench course\n
-README.md created: Tue Jan 19 00:00:25 IST 2021
-\nNumber of lines in guessinggame.sh: 
+## The title of the project
+
+The **date** and time at which make was run : 
+Tue Jan 19 14:36:57 +04 2021
+
+The **number of lines** of code contained in guessinggame.sh : 
+25
